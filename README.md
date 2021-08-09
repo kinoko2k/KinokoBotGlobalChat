@@ -5,4 +5,4 @@
 
 画像は貼れませんので、貼れるコードなどをお持ちの方は、Pull requestsとかして埋め込んでほしいです。
 
-開発者:[Twitter@kinoko1216](https://twitter.com/kinoko1216)
+開発者:[Twitter(@kinoko1216)](https://twitter.com/kinoko1216)
